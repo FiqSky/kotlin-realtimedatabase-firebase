@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855090948269",
+    "project_id": "kotlincrudfirebase-fac44",
+    "storage_bucket": "kotlincrudfirebase-fac44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855090948269:android:d368f74784f2e937af3e24",
+        "android_client_info": {
+          "package_name": "com.fiqsky.kotlincrudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855090948269-bi4mic1imeot32p2epca7384kkholett.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr7-jB-CSinm-HA8Z1Tqh6Mq1Ifq2c2Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855090948269-bi4mic1imeot32p2epca7384kkholett.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
